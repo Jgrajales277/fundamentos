@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "arreglo",
+        "Chrono",
+        "Cosas",
+        "crear",
+        "Cuál",
+        "edad",
+        "elemento",
+        "Está",
+        "Hola",
+        "indice",
+        "juegos",
+        "mensaje",
+        "nuevo",
+        "Rica",
+        "saludo",
+        "Spiderman",
+        "Último"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:01-fundamentos}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
